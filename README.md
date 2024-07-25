@@ -119,7 +119,7 @@
 
 
 ## 1-4. Service Architecture
-<img width="800" alt="ARC" src="https://github.com/user-attachments/assets/f5d8f601-6d58-4cb1-834d-b4d5974d85a4">
+<img width="800" alt="ARC" src="https://github.com/user-attachments/assets/ac6131b5-c41a-4fef-acc9-199300da62c0">
 
 
 <br>
@@ -474,15 +474,15 @@
 
 ## 최종 발표 자료 일부
 
-<img width="500" alt="004" src="https://github.com/user-attachments/assets/f13973d7-b292-457c-9dbb-2602b34fb33b">
-<img width="500" alt="005" src="https://github.com/user-attachments/assets/ee0b9a93-81ef-4698-8ba6-489b937981bd">
-<img width="500" alt="006" src="https://github.com/user-attachments/assets/c7db8688-8690-4407-ab7e-4ebaee47b2ad">
-<img width="500" alt="015" src="https://github.com/user-attachments/assets/7d6a840f-9085-4e9b-945b-219640a3783f">
-<img width="500" alt="017" src="https://github.com/user-attachments/assets/b666116c-57b8-40ca-80e3-08ea71030f5c">
-<img width="500" alt="019" src="https://github.com/user-attachments/assets/898a9c4d-303b-4511-8e83-08e44d55b848">
-<img width="500" alt="022" src="https://github.com/user-attachments/assets/497f0b13-c808-4777-89b8-de851f527ecb">
-<img width="500" alt="024" src="https://github.com/user-attachments/assets/febb3d1d-831c-42a7-b3ed-1ef6e0eab324">
-<img width="500" alt="028" src="https://github.com/user-attachments/assets/be3517d9-f370-4186-bdac-97b702c94546">
+<img width="600" alt="004" src="https://github.com/user-attachments/assets/f13973d7-b292-457c-9dbb-2602b34fb33b">
+<img width="600" alt="005" src="https://github.com/user-attachments/assets/ee0b9a93-81ef-4698-8ba6-489b937981bd">
+<img width="600" alt="006" src="https://github.com/user-attachments/assets/c7db8688-8690-4407-ab7e-4ebaee47b2ad">
+<img width="600" alt="015" src="https://github.com/user-attachments/assets/7d6a840f-9085-4e9b-945b-219640a3783f">
+<img width="600" alt="017" src="https://github.com/user-attachments/assets/b666116c-57b8-40ca-80e3-08ea71030f5c">
+<img width="600" alt="019" src="https://github.com/user-attachments/assets/898a9c4d-303b-4511-8e83-08e44d55b848">
+<img width="600" alt="022" src="https://github.com/user-attachments/assets/497f0b13-c808-4777-89b8-de851f527ecb">
+<img width="600" alt="024" src="https://github.com/user-attachments/assets/febb3d1d-831c-42a7-b3ed-1ef6e0eab324">
+<img width="600" alt="028" src="https://github.com/user-attachments/assets/be3517d9-f370-4186-bdac-97b702c94546">
 
 
 
